@@ -13,19 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Thanks for checking in!
+# Thanks for checking in!
 
 I'm a web dev in training fresh from Le Wagon's Berlin Bootcamp. 
 
-# Current Projects
+## Current Projects
 
 Watch this space for refined versions of rails apps I began in the bootcamp. 
-
-# Contact me
-
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/tom-horan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/tom-horan" height="30" width="40" /></a>
-</p>
 
 # Skills
 
